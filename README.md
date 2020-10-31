@@ -1,2 +1,2 @@
-# NaturalProcessingLanguage
-Repository about NaturalProcessingLanguage
+# Natural Language Processing
+Repository about Natural Language Processing
